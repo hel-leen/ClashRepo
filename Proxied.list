@@ -65,7 +65,6 @@ DOMAIN-SUFFIX,authorizeddns.us
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,avmo.pw
 DOMAIN-SUFFIX,avmoo.com
-DOMAIN-SUFFIX,avmoo.com
 DOMAIN-SUFFIX,avmoo.net
 DOMAIN-SUFFIX,avmoo.net
 DOMAIN-SUFFIX,avmoo.pw
@@ -435,6 +434,7 @@ DOMAIN-SUFFIX,gsp.target.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,guangnianvpn.com
 DOMAIN-SUFFIX,guo.media
+DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
@@ -893,6 +893,7 @@ DOMAIN-SUFFIX,wikaba.com
 DOMAIN-SUFFIX,wikia.com
 DOMAIN-SUFFIX,wingamestore.com
 DOMAIN-SUFFIX,wire.com
+DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,wizcrafts.net

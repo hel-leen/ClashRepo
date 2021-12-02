@@ -5,6 +5,7 @@ PROCESS-NAME,Rscript.exe
 PROCESS-NAME,R.exe
 PROCESS-NAME,msedge.exe
 DOMAIN-SUFFIX,last.fm
+DOMAIN,www.last.fm
 DOMAIN-SUFFIX,metal-archives.com
 DOMAIN-KEYWORD,metal-archives
 DOMAIN-KEYWORD,ecosia
@@ -18,6 +19,12 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,datatables
 DOMAIN-KEYWORD,unpkg
+DOMAIN-SUFFIX,youtube-nocookie.com
+
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,getpublica.com
+  - DOMAIN-SUFFIX,media.net
 DOMAIN,blog.ontrac.com
 DOMAIN,cdn.ampproject.org
 DOMAIN,ime.baidu.jp
@@ -350,8 +357,8 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dangdang.com
 DOMAIN-SUFFIX,daocloud.io
 DOMAIN-SUFFIX,daqi.com
-DOMAIN-SUFFIX,datagrand.com
 DOMAIN-SUFFIX,darkreader.org
+DOMAIN-SUFFIX,datagrand.com
 DOMAIN-SUFFIX,dayoo.com
 DOMAIN-SUFFIX,dbank.com
 DOMAIN-SUFFIX,dbnsa.gov.tw
@@ -787,8 +794,8 @@ DOMAIN-SUFFIX,momentcdn.com
 DOMAIN-SUFFIX,mookie1.com
 DOMAIN-SUFFIX,moonbasa.com
 DOMAIN-SUFFIX,mop.com
-DOMAIN-SUFFIX,mousegesturesapi.com
 DOMAIN-SUFFIX,mosso.com
+DOMAIN-SUFFIX,mousegesturesapi.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mplife.com
 DOMAIN-SUFFIX,msftconnecttest.com
@@ -817,6 +824,7 @@ DOMAIN-SUFFIX,net114.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,netseer.com
+DOMAIN-SUFFIX,newrelic.com
 DOMAIN-SUFFIX,newsmth.net
 DOMAIN-SUFFIX,nga.cn
 DOMAIN-SUFFIX,ngacn.cc
@@ -828,6 +836,7 @@ DOMAIN-SUFFIX,nmvttc.gov.tw
 DOMAIN-SUFFIX,northguan-nsa.gov.tw
 DOMAIN-SUFFIX,nowec.com
 DOMAIN-SUFFIX,npm.gov.tw
+DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,nstm.gov.tw
 DOMAIN-SUFFIX,ntdmh.gov.tw
 DOMAIN-SUFFIX,ntl.gov.tw

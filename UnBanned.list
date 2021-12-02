@@ -4,8 +4,6 @@ PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,Rscript.exe
 PROCESS-NAME,R.exe
 PROCESS-NAME,msedge.exe
-DOMAIN-SUFFIX,last.fm
-DOMAIN,www.last.fm
 DOMAIN-SUFFIX,metal-archives.com
 DOMAIN-KEYWORD,metal-archives
 DOMAIN-KEYWORD,ecosia
@@ -19,12 +17,8 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,datatables
 DOMAIN-KEYWORD,unpkg
+DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,youtube-nocookie.com
-
-  - DOMAIN-SUFFIX,cbsi.com
-  - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-SUFFIX,getpublica.com
-  - DOMAIN-SUFFIX,media.net
 DOMAIN,blog.ontrac.com
 DOMAIN,cdn.ampproject.org
 DOMAIN,ime.baidu.jp
@@ -269,6 +263,7 @@ DOMAIN-SUFFIX,cachemoment.com
 DOMAIN-SUFFIX,caing.com
 DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,cas.cn
+DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,ccidnet.com
 DOMAIN-SUFFIX,cctv.com
@@ -336,6 +331,7 @@ DOMAIN-SUFFIX,compete.com
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,coo8.com
+DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolpad.com
 DOMAIN-SUFFIX,cqnews.net
@@ -470,6 +466,7 @@ DOMAIN-SUFFIX,gaopeng.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,getfedora.org
 DOMAIN-SUFFIX,getfirebug.com
+DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gewara.com
 DOMAIN-SUFFIX,gfan.com
@@ -760,6 +757,7 @@ DOMAIN-SUFFIX,matsu-nsa.gov.tw
 DOMAIN-SUFFIX,maxfox.me
 DOMAIN-SUFFIX,mcbbs.net
 DOMAIN-SUFFIX,mdui.org
+DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,mediaplex.com
 DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,meilele.com

@@ -21,12 +21,10 @@ DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN,blog.ontrac.com
-DOMAIN,cdn.ampproject.org
+DOMAIN-SUFFIX,ampproject.org
 DOMAIN,ime.baidu.jp
 DOMAIN,nrch.culture.tw
 DOMAIN,store.sprite.org
-DOMAIN,translate.google.cn
-DOMAIN,www.ampproject.org
 DOMAIN,www.google.cn
 DOMAIN,www.lightnovel.cn
 DOMAIN,xx.wwwhost.biz
@@ -266,12 +264,9 @@ DOMAIN-SUFFIX,caing.com
 DOMAIN-SUFFIX,caixin.com
 DOMAIN-SUFFIX,cas.cn
 DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,ccb.com
 DOMAIN-SUFFIX,ccidnet.com
 DOMAIN-SUFFIX,cctv.com
-DOMAIN-SUFFIX,cctvcom
-DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,cdnbee.com
 DOMAIN-SUFFIX,cdndm.com
@@ -306,9 +301,8 @@ DOMAIN-SUFFIX,clientservices.googleapis.com
 DOMAIN-SUFFIX,cloudinary.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cmbchina.com
-DOMAIN-SUFFIX,cn"
 DOMAIN-SUFFIX,cn.gravatar.com
-DOMAIN-SUFFIX,cn.noxinfluencer.com
+DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,cnbeta.com
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cncn.com
@@ -435,7 +429,6 @@ DOMAIN-SUFFIX,eye.rs
 DOMAIN-SUFFIX,eyoudi.com
 DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,fantong.com
-DOMAIN-SUFFIX,fantong.com"
 DOMAIN-SUFFIX,fastcdn.com
 DOMAIN-SUFFIX,fastif.net
 DOMAIN-SUFFIX,fat999.com
@@ -553,7 +546,6 @@ DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icson.com
-DOMAIN-SUFFIX,icson.com"
 DOMAIN-SUFFIX,idailyapp.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,ifanr.com
@@ -957,7 +949,7 @@ DOMAIN-SUFFIX,runoob.com
 DOMAIN-SUFFIX,safebrowsing.googleapis.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sanguosha.com
-DOMAIN-SUFFIX,saraba1st.com"
+DOMAIN-SUFFIX,saraba1st.com
 DOMAIN-SUFFIX,sarm.net
 DOMAIN-SUFFIX,sb.sb
 DOMAIN-SUFFIX,scanscout.com

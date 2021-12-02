@@ -3,7 +3,7 @@ PROCESS-NAME,rsession.exe
 PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,Rscript.exe
 PROCESS-NAME,R.exe
-DOMAIN,last.fm,DIRECT
+DOMAIN,last.fm
 DOMAIN-SUFFIX,metal-archives.com
 DOMAIN-KEYWORD,metal-archives
 DOMAIN-KEYWORD,ecosia

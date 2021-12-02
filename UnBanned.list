@@ -3,6 +3,7 @@ PROCESS-NAME,rsession.exe
 PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,Rscript.exe
 PROCESS-NAME,R.exe
+PROCESS-NAME,msedge.exe
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,metal-archives.com
 DOMAIN-KEYWORD,metal-archives
@@ -16,6 +17,7 @@ DOMAIN-KEYWORD,plotly
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,datatables
+DOMAIN-KEYWORD,unpkg
 DOMAIN,blog.ontrac.com
 DOMAIN,cdn.ampproject.org
 DOMAIN,ime.baidu.jp
@@ -349,6 +351,7 @@ DOMAIN-SUFFIX,dangdang.com
 DOMAIN-SUFFIX,daocloud.io
 DOMAIN-SUFFIX,daqi.com
 DOMAIN-SUFFIX,datagrand.com
+DOMAIN-SUFFIX,darkreader.org
 DOMAIN-SUFFIX,dayoo.com
 DOMAIN-SUFFIX,dbank.com
 DOMAIN-SUFFIX,dbnsa.gov.tw
@@ -784,6 +787,7 @@ DOMAIN-SUFFIX,momentcdn.com
 DOMAIN-SUFFIX,mookie1.com
 DOMAIN-SUFFIX,moonbasa.com
 DOMAIN-SUFFIX,mop.com
+DOMAIN-SUFFIX,mousegesturesapi.com
 DOMAIN-SUFFIX,mosso.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mplife.com

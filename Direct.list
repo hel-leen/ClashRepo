@@ -4,11 +4,9 @@ PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,Rscript.exe
 PROCESS-NAME,R.exe
 PROCESS-NAME,msedge.exe
-DOMAIN-SUFFIX,metal-archives.com
 DOMAIN-KEYWORD,metal-archives
 DOMAIN-KEYWORD,ecosia
 DOMAIN-KEYWORD,fudan
-DOMAIN-KEYWORD,furia
 DOMAIN-KEYWORD,everynoise
 DOMAIN-KEYWORD,jquery
 DOMAIN-KEYWORD,jsbin
@@ -17,10 +15,14 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,unpkg
-DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN,blog.ontrac.com
+DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,furia.com
+DOMAIN-SUFFIX,metal-archives.com
+DOMAIN-SUFFIX,angrymetalguy.com
+DOMAIN-SUFFIX,nocleansinging.com
 DOMAIN,ime.baidu.jp
 DOMAIN,nrch.culture.tw
 DOMAIN,store.sprite.org

@@ -24,9 +24,7 @@ DOMAIN,blog.ontrac.com
 DOMAIN,ime.baidu.jp
 DOMAIN,nrch.culture.tw
 DOMAIN,store.sprite.org
-DOMAIN,www.google.cn
-DOMAIN,www.lightnovel.cn
-DOMAIN,xx.wwwhost.biz
+DOMAIN,-SUFFIX,wwwhost.biz
 DOMAIN-SUFFIX,07073.com
 DOMAIN-SUFFIX,0o0.ooo
 DOMAIN-SUFFIX,0x110.com
@@ -150,7 +148,6 @@ DOMAIN-SUFFIX,ad1111.com
 DOMAIN-SUFFIX,aday01.com
 DOMAIN-SUFFIX,adf.ly
 DOMAIN-SUFFIX,admin5.com
-
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,ads8.com
@@ -189,7 +186,6 @@ DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amazon.cn
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,anquan.org
@@ -424,6 +420,7 @@ DOMAIN-SUFFIX,et8.org
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,exam8.com
+DOMAIN-SUFFIX,exblog.jp
 DOMAIN-SUFFIX,eye.rs
 DOMAIN-SUFFIX,eyoudi.com
 DOMAIN-SUFFIX,fang.com
@@ -473,6 +470,7 @@ DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,golaravel.com
 DOMAIN-SUFFIX,gongchang.com
 DOMAIN-SUFFIX,goodbabygroup.com
+DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,gougou.com
 DOMAIN-SUFFIX,gov.cn
@@ -663,6 +661,7 @@ DOMAIN-SUFFIX,klsio.gov.tw
 DOMAIN-SUFFIX,kmf.com
 DOMAIN-SUFFIX,kmseh.gov.tw
 DOMAIN-SUFFIX,knownsec.com
+DOMAIN-SUFFIX,kodingen.com
 DOMAIN-SUFFIX,koudai8.com
 DOMAIN-SUFFIX,krspace.cn
 DOMAIN-SUFFIX,ksyun.com
@@ -700,6 +699,7 @@ DOMAIN-SUFFIX,liaoxuefeng.com
 DOMAIN-SUFFIX,liebiao.com
 DOMAIN-SUFFIX,liepin.com
 DOMAIN-SUFFIX,lietou.com
+DOMAIN-SUFFIX,lightnovel.cn
 DOMAIN-SUFFIX,linezing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linuxidc.com
@@ -1100,6 +1100,7 @@ DOMAIN-SUFFIX,tuniu.com
 DOMAIN-SUFFIX,tvmao.com
 DOMAIN-SUFFIX,twcczhu.com
 DOMAIN-SUFFIX,typecho.org
+DOMAIN-SUFFIX,typepad.com
 DOMAIN-SUFFIX,u17.com
 DOMAIN-SUFFIX,u9u9.com
 DOMAIN-SUFFIX,ubisoft.com.cn
@@ -1177,9 +1178,6 @@ DOMAIN-SUFFIX,woyoo.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wumii.com
-DOMAIN-SUFFIX,www.exblog.jp
-DOMAIN-SUFFIX,www.kodingen.com
-DOMAIN-SUFFIX,www.typepad.com
 DOMAIN-SUFFIX,xcar.com.cn
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xf9168.com

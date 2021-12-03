@@ -213,7 +213,6 @@ DOMAIN-SUFFIX,w-t-c.org
 
 #Music tracking
 DOMAIN-KEYWORD,scrobble
-DOMAIN-KEYWORD,lastfm
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,libre.fm

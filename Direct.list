@@ -4,19 +4,22 @@ PROCESS-NAME,QtWebEngineProcess.exe
 PROCESS-NAME,Rscript.exe
 PROCESS-NAME,R.exe
 PROCESS-NAME,msedge.exe
-DOMAIN-KEYWORD,metal-archives
+
 DOMAIN-KEYWORD,ecosia
 DOMAIN-KEYWORD,fudan
 DOMAIN-KEYWORD,everynoise
 DOMAIN-KEYWORD,jquery
+DOMAIN-KEYWORD,unpkg
 DOMAIN-KEYWORD,jsbin
 DOMAIN-KEYWORD,plotly
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,iftproject
-DOMAIN-KEYWORD,unpkg
+DOMAIN-KEYWORD,r-project
+DOMAIN-KEYWORD,metal-archives
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,youtube-nocookie.com
+
 DOMAIN,blog.ontrac.com
 DOMAIN,ime.baidu.jp
 DOMAIN,nrch.culture.tw
@@ -147,7 +150,7 @@ DOMAIN-SUFFIX,ad1111.com
 DOMAIN-SUFFIX,aday01.com
 DOMAIN-SUFFIX,adf.ly
 DOMAIN-SUFFIX,admin5.com
-DOMAIN-SUFFIX,adnxs.com
+
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adroll.com
 DOMAIN-SUFFIX,ads8.com
@@ -325,7 +328,6 @@ DOMAIN-SUFFIX,compete.com
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 DOMAIN-SUFFIX,coo8.com
-DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolpad.com
 DOMAIN-SUFFIX,cqnews.net
@@ -460,7 +462,6 @@ DOMAIN-SUFFIX,gaopeng.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,getfedora.org
 DOMAIN-SUFFIX,getfirebug.com
-DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gewara.com
 DOMAIN-SUFFIX,gfan.com
@@ -752,7 +753,6 @@ DOMAIN-SUFFIX,matsu-nsa.gov.tw
 DOMAIN-SUFFIX,maxfox.me
 DOMAIN-SUFFIX,mcbbs.net
 DOMAIN-SUFFIX,mdui.org
-DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,mediaplex.com
 DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,meilele.com

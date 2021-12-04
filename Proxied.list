@@ -35,13 +35,11 @@ DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,eporner.com
-DOMAIN-SUFFIX,excite.co.jp
 DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,france24.com
-DOMAIN-SUFFIX,gab.ai
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,google.co.jp
@@ -56,7 +54,6 @@ DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,indeed.com
 DOMAIN-SUFFIX,independent.co.uk
-DOMAIN-SUFFIX,instafreebie.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,japantimes.co.jp
 DOMAIN-SUFFIX,jpl.nasa.gov
@@ -71,7 +68,6 @@ DOMAIN-SUFFIX,maps.google.cn
 DOMAIN-SUFFIX,mastodon.social
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.nz
-DOMAIN-SUFFIX,mendeley.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,minghui.org
 DOMAIN-SUFFIX,minutouno.com
@@ -80,12 +76,9 @@ DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nikkeibp.co.jp
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,pbworks.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pinterest.com
@@ -102,14 +95,11 @@ DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rferl.org
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,roblox.com
-DOMAIN-SUFFIX,scmp.com/asia
 DOMAIN-SUFFIX,scratch.mit.edu
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,socialblade.com
-DOMAIN-SUFFIX,sony.co.jp
-DOMAIN-SUFFIX,sonymusic.co.jp
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,spiegel.de
 DOMAIN-SUFFIX,sponichi.co.jp
@@ -131,7 +121,6 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tunnelbear.com
 DOMAIN-SUFFIX,tv5monde.com
-DOMAIN-SUFFIX,tvr.ro
 DOMAIN-SUFFIX,tw.appledaily.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitter.com
@@ -150,7 +139,6 @@ DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wionews.com
 DOMAIN-SUFFIX,worldcat.org
-DOMAIN-SUFFIX,wretch.cc
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,ww3.nhk.or.jp
 DOMAIN-SUFFIX,xhamster.com

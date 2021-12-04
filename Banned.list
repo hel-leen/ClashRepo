@@ -1,14 +1,13 @@
-DOMAIN-KEYWORD,advertise
+DOMAIN-KEYWORD,advertis
 DOMAIN-KEYWORD,adserv
 DOMAIN-KEYWORD,directads
-DOMAIN-KEYWORD,adspayformy
+DOMAIN-KEYWORD,adspayform
 DOMAIN-KEYWORD,pagerank
 DOMAIN-KEYWORD,yoursubdomain
 DOMAIN-KEYWORD,adrunner
-DOMAIN-KEYWORD,adfarm1
+DOMAIN-KEYWORD,adfarm
 DOMAIN-KEYWORD,247realmedia
-DOMAIN-KEYWORD,adserve
-DOMAIN-KEYWORD,clickserve
+DOMAIN-KEYWORD,clickserv
 DOMAIN-KEYWORD,adtech
 DOMAIN-SUFFIX,00fun.com
 DOMAIN-SUFFIX,103092804.com
@@ -47,7 +46,6 @@ DOMAIN-SUFFIX,adbutler.com
 DOMAIN-SUFFIX,adbutler.de
 DOMAIN-SUFFIX,addaim.com
 DOMAIN-SUFFIX,addfreestats.com
-DOMAIN-SUFFIX,adfarm.mediaplex.com
 DOMAIN-SUFFIX,ad-groups.com
 DOMAIN-SUFFIX,adhostingsolutions.com
 DOMAIN-SUFFIX,adinterax.com
@@ -107,12 +105,10 @@ DOMAIN-SUFFIX,adsl.carpediem.fr
 DOMAIN-SUFFIX,adsrv.ea.com
 DOMAIN-SUFFIX,adstil.indiatimes.com
 DOMAIN-SUFFIX,adsweb.tiscali.it
-DOMAIN-SUFFIX,adtech.de
 DOMAIN-SUFFIX,adultfriendfinder.com
 DOMAIN-SUFFIX,adultrevenueservice.com
 DOMAIN-SUFFIX,adv.medscape.com
 DOMAIN-SUFFIX,adverserve.net
-DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,adviva.net
 DOMAIN-SUFFIX,adwarespy.com
 DOMAIN-SUFFIX,afcyhf.com
@@ -177,7 +173,6 @@ DOMAIN-SUFFIX,bitroll.com
 DOMAIN-SUFFIX,blinkx.com
 DOMAIN-SUFFIX,bloovue.com
 DOMAIN-SUFFIX,blowsearch.com
-DOMAIN-SUFFIX,blueadvertise.com
 DOMAIN-SUFFIX,bmmetrix.com
 DOMAIN-SUFFIX,botd.wordpress.com
 DOMAIN-SUFFIX,botd2.wordpress.com
@@ -227,9 +222,7 @@ DOMAIN-SUFFIX,clicktracks.com
 DOMAIN-SUFFIX,clickzs.com
 DOMAIN-SUFFIX,cm.need2find.com
 DOMAIN-SUFFIX,cnt.tyxo.bg
-DOMAIN-SUFFIX,co.uk
 DOMAIN-SUFFIX,collectiblestoday.com
-DOMAIN-SUFFIX,com.au
 DOMAIN-SUFFIX,comclick.com
 DOMAIN-SUFFIX,commission-junction.com
 DOMAIN-SUFFIX,commons.pajamasmedia.com
@@ -259,7 +252,6 @@ DOMAIN-SUFFIX,da.newstogram.com
 DOMAIN-SUFFIX,dart.chron.com
 DOMAIN-SUFFIX,data.abebooks.com
 DOMAIN-SUFFIX,dataforce.net
-DOMAIN-SUFFIX,date.com
 DOMAIN-SUFFIX,dateclix.com
 DOMAIN-SUFFIX,dbobs.com
 DOMAIN-SUFFIX,dcapps.disney.go.com
@@ -282,7 +274,6 @@ DOMAIN-SUFFIX,digiaquascr.com
 DOMAIN-SUFFIX,digimedia.com
 DOMAIN-SUFFIX,digits.com
 DOMAIN-SUFFIX,directleads.com
-DOMAIN-SUFFIX,directnetadvertising.net
 DOMAIN-SUFFIX,directnic.com
 DOMAIN-SUFFIX,directtrack.com
 DOMAIN-SUFFIX,dl.ezthemes.com
@@ -295,6 +286,8 @@ DOMAIN-SUFFIX,domainpark.sitelutions.com
 DOMAIN-SUFFIX,domains.googlesyndication.com
 DOMAIN-SUFFIX,domainsponsor.com
 DOMAIN-SUFFIX,dot.wp.pl
+DOMAIN-SUFFIX,doubleclick.com
+DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,download.centralserver.net
 DOMAIN-SUFFIX,download.favorit-network.com
 DOMAIN-SUFFIX,download.freeze.com
@@ -524,7 +517,6 @@ DOMAIN-SUFFIX,nozonedata.com
 DOMAIN-SUFFIX,ntlligent.info
 DOMAIN-SUFFIX,nurno.com
 DOMAIN-SUFFIX,nuseek.com
-DOMAIN-SUFFIX,nx-adv.webadvertising.ch
 DOMAIN-SUFFIX,o2.co.uk
 DOMAIN-SUFFIX,oas.benchmark.fr
 DOMAIN-SUFFIX,oas.mainetoday.com
@@ -721,7 +713,6 @@ DOMAIN-SUFFIX,std1.hit.gemius.pl
 DOMAIN-SUFFIX,stressx.org
 DOMAIN-SUFFIX,superfastsservers.com
 DOMAIN-SUFFIX,support.sextronix.com
-DOMAIN-SUFFIX,supremeadserver.com
 DOMAIN-SUFFIX,swissinf.wemfbox.ch
 DOMAIN-SUFFIX,t.blogreaderproject.com
 DOMAIN-SUFFIX,t.flux.com

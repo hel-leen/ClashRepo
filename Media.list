@@ -81,7 +81,7 @@ DOMAIN-SUFFIX,wonderboxmetal.com
 DOMAIN-SUFFIX,worldmetalscene.com
 DOMAIN-SUFFIX,ztmag.com
 
-#Labels
+#Music Labels
 DOMAIN-SUFFIX,20buckspin.com
 DOMAIN-SUFFIX,acclaimrecords.com
 DOMAIN-SUFFIX,anaitesrecords.com
@@ -215,7 +215,7 @@ DOMAIN-SUFFIX,statsforspotify.com
 DOMAIN-SUFFIX,wavy.fm
 
 
-#Bandcamp Server
+#Bandcamp playback
 DOMAIN-SUFFIX,bcbits.com
 
 

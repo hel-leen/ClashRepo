@@ -22,7 +22,7 @@ DOMAIN,blog.ontrac.com
 DOMAIN,ime.baidu.jp
 DOMAIN,nrch.culture.tw
 DOMAIN,store.sprite.org
-DOMAIN,-SUFFIX,wwwhost.biz
+DOMAIN-SUFFIX,wwwhost.biz
 DOMAIN-SUFFIX,07073.com
 DOMAIN-SUFFIX,0o0.ooo
 DOMAIN-SUFFIX,0x110.com

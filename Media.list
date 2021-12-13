@@ -216,5 +216,7 @@ DOMAIN-SUFFIX,wavy.fm
 
 #Bandcamp Server
 DOMAIN-SUFFIX,bcbits.com
+#DOMAIN-SUFFIX,p4.bcbits.com
+#DOMAIN-SUFFIX,t4.bcbits.com
 
 

@@ -1,8 +1,3 @@
-PROCESS-NAME,RStudio.exe
-PROCESS-NAME,rsession.exe
-PROCESS-NAME,QtWebEngineProcess.exe
-PROCESS-NAME,Rscript.exe
-PROCESS-NAME,R.exe
 PROCESS-NAME,msedge.exe
 
 DOMAIN-KEYWORD,ecosia

@@ -205,8 +205,8 @@ DOMAIN-SUFFIX,woodcutrecords.com
 DOMAIN-SUFFIX,w-t-c.org
 
 #Music tracking
+#DOMAIN-SUFFIX,last.fm
 DOMAIN-KEYWORD,scrobble
-DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,listenbrainz.org
 #DOMAIN-SUFFIX,libre.fm
 DOMAIN-SUFFIX,scatterfm.markhansen.co.nz

@@ -11,6 +11,7 @@ DOMAIN-KEYWORD,clickserv
 DOMAIN-KEYWORD,adtech
 
 #google ads
+DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,gstaticx.com
 DOMAIN-SUFFIX,gstaticxs.com
 DOMAIN-SUFFIX,ad.youtube.com

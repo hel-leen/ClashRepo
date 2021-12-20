@@ -339,7 +339,7 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,download.syniumsoftware.com
+DOMAIN-SUFFIX,syniumsoftware.com
 DOMAIN-SUFFIX,doyoo.net
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,dream4ever.org
@@ -429,7 +429,7 @@ DOMAIN-SUFFIX,gougou.com
 DOMAIN-SUFFIX,grb.gov.tw
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,guokr.com
-DOMAIN-SUFFIX,gvt1.com
+# DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gy9y.com
 DOMAIN-SUFFIX,gysd.nyc.gov.tw
 DOMAIN-SUFFIX,gzmama.com

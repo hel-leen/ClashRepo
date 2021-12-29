@@ -164,7 +164,7 @@ DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,ampproject.org
+#DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanbao.com

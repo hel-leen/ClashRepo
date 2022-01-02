@@ -419,7 +419,7 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gewara.com
 DOMAIN-SUFFIX,gfan.com
 DOMAIN-SUFFIX,gfw.io
-DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,ggmm777.com
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,go2map.com
@@ -770,6 +770,7 @@ DOMAIN-SUFFIX,ntl.gov.tw
 DOMAIN-SUFFIX,ntsec.gov.tw
 DOMAIN-SUFFIX,ntuh.gov.tw
 DOMAIN-SUFFIX,nuomi.com
+DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvri.gov.tw
 DOMAIN-SUFFIX,oadz.com
 DOMAIN-SUFFIX,obsapp.com
@@ -975,6 +976,10 @@ DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,tiao8.info
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tiexue.net
+DOMAIN-SUFFIX,tidyverse.org
+DOMAIN-SUFFIX,regexr.com
+DOMAIN-SUFFIX,rstudio.com
+DOMAIN-SUFFIX,r-pkg.org
 DOMAIN-SUFFIX,tigerlust.com
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,titan24.com

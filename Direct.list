@@ -164,12 +164,14 @@ DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,amazon.de
 #DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanbao.com
 DOMAIN-SUFFIX,anzhi.com
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appgame.com
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,apple.com
@@ -1046,6 +1048,7 @@ DOMAIN-SUFFIX,videojj.com
 DOMAIN-SUFFIX,viosey.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipshop.com
+DOMAIN-SUFFIX,vido.download
 DOMAIN-SUFFIX,vizu.com
 DOMAIN-SUFFIX,vjia.com
 DOMAIN-SUFFIX,vmall.com

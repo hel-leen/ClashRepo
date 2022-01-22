@@ -1,5 +1,4 @@
 PROCESS-NAME,msedge.exe
-
 DOMAIN-KEYWORD,ecosia
 DOMAIN-KEYWORD,fudan
 DOMAIN-KEYWORD,jquery
@@ -11,7 +10,6 @@ DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,r-project
 #DOMAIN-SUFFIX,gstatic.com
-
 
 #cloudflare IP space
 IP-CIDR,31.13.24.0/21,no-resolve

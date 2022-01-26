@@ -14,12 +14,6 @@ DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,r-project
 #DOMAIN-SUFFIX,gstatic.com
 
-#duolingo
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,duolingo.com
-DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
-DOMAIN-SUFFIX,lmepbq.com
-
 
 # DOMAIN-SUFFIX,ampproject.org
 # DOMAIN-SUFFIX,gvt1.com

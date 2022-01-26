@@ -36,12 +36,12 @@ IP-CIDR,102.133.202.246/32,no-resolve
 #signal
 PROCESS-NAME,Signal.exe
 PROCESS-NAME,signal.exe
-IP-CIDR,13.224.224.0/22,no-resolve
-IP-CIDR,99.86.116.0/22,no-resolve
-IP-CIDR,104.16.0.0/14,no-resolve
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signalstickers.com
 DOMAIN-SUFFIX,whispersystems.org
+IP-CIDR,13.224.224.0/22,no-resolve
+IP-CIDR,99.86.116.0/22,no-resolve
+IP-CIDR,104.16.0.0/14,no-resolve
 
 #facebook IP space
 IP-CIDR,31.13.24.0/21,no-resolve
@@ -116,7 +116,6 @@ DOMAIN-SUFFIX,france24.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,goodreads.com
-DOMAIN-SUFFIX,google.co.jp
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,hbo.com

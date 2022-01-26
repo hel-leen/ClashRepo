@@ -1,9 +1,12 @@
 
 #metal-archives
+DOMAIN-SUFFIX,metal-archives.com
 IP-CIDR,104.21.48.0/22,no-resolve
 IP-CIDR,172.67.160.0/22,no-resolve
 IP-CIDR,209.59.184.0/22,no-resolve
 
+#Bandcamp Server
+DOMAIN-SUFFIX,bcbits.com
 
 #Music Blogs and Websites
 DOMAIN-SUFFIX,acceptworldwide.com
@@ -45,7 +48,6 @@ DOMAIN-SUFFIX,manofmuchmetal.com
 DOMAIN-SUFFIX,metal4africa.com
 DOMAIN-SUFFIX,metaladdicts.com
 DOMAIN-SUFFIX,metaladies.com
-DOMAIN-SUFFIX,metal-archives.com
 DOMAIN-SUFFIX,metalblade.com
 DOMAIN-SUFFIX,metaldevastationradio.com
 DOMAIN-SUFFIX,metalinjection.net
@@ -218,11 +220,6 @@ DOMAIN-SUFFIX,scatterfm.markhansen.co.nz
 DOMAIN-SUFFIX,spotifytrack.net
 DOMAIN-SUFFIX,statsforspotify.com
 DOMAIN-SUFFIX,wavy.fm
-
-#Bandcamp Server
-DOMAIN-SUFFIX,bcbits.com
-#DOMAIN-SUFFIX,p4.bcbits.com
-#DOMAIN-SUFFIX,t4.bcbits.com
 
 
 #cloudflare IP space

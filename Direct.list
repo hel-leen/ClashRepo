@@ -1,34 +1,4 @@
-#local
-IP-CIDR,0.0.0.0/8
-IP-CIDR,10.0.0.0/8
-IP-CIDR,100.64.0.0/10
-IP-CIDR,127.0.0.0/8
-IP-CIDR,169.254.0.0/16
-IP-CIDR,172.16.0.0/12
-IP-CIDR,192.0.0.0/24
-IP-CIDR,192.0.2.0/24
-IP-CIDR,192.168.0.0/16
-IP-CIDR,192.88.99.0/24
-IP-CIDR,198.18.0.0/15
-IP-CIDR,198.51.100.0/24
-IP-CIDR,203.0.113.0/24
-IP-CIDR,223.255.255.0/24
-IP-CIDR,224.0.0.0/4
-IP-CIDR,240.0.0.0/4
-IP-CIDR,255.255.255.255/32
-IP-CIDR6,::/128
-IP-CIDR6,::1/128
-IP-CIDR6,100::/64
-IP-CIDR6,64:ff9b::/96
-IP-CIDR6,2001::/32
-IP-CIDR6,2001:10::/28
-IP-CIDR6,2001:20::/28
-IP-CIDR6,2001:db8::/32
-IP-CIDR6,2002::/16
-IP-CIDR6,fc00::/7
-IP-CIDR6,fe80::/10
-IP-CIDR6,ff00::/8
-
+# Direct
 
 #specs
 PROCESS-NAME,msedge.exe
@@ -44,10 +14,6 @@ DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,r-project
 #DOMAIN-SUFFIX,gstatic.com
 
-# Adguard local DNS 
-DOMAIN,injections.adguard.org
-DOMAIN,local.adguard.org 
-
 #duolingo
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,duolingo.com
@@ -55,11 +21,8 @@ DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
 DOMAIN-SUFFIX,lmepbq.com
 
 
-DOMAIN,blog.ontrac.com
-DOMAIN,ime.baidu.jp
-DOMAIN,nrch.culture.tw
-DOMAIN,store.sprite.org
-DOMAIN-SUFFIX,wwwhost.biz
+# DOMAIN-SUFFIX,ampproject.org
+# DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,07073.com
 DOMAIN-SUFFIX,0o0.ooo
 DOMAIN-SUFFIX,0x110.com
@@ -207,12 +170,13 @@ DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.de
-#DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,anjuke.com
 DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anquanbao.com
 DOMAIN-SUFFIX,anzhi.com
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,apkdone.com
+DOMAIN-SUFFIX,apkdone.download
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appgame.com
 DOMAIN-SUFFIX,appinn.com
@@ -252,6 +216,7 @@ DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bjbus.com
 DOMAIN-SUFFIX,blackyau.cc
 DOMAIN-SUFFIX,blog.163.com
+DOMAIN-SUFFIX,blog.ontrac.com
 DOMAIN-SUFFIX,blogbus.com
 DOMAIN-SUFFIX,blogchina.com
 DOMAIN-SUFFIX,blogjava.net
@@ -261,11 +226,11 @@ DOMAIN-SUFFIX,bokee.net
 DOMAIN-SUFFIX,booksky.org
 DOMAIN-SUFFIX,boosj.com
 DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,boredpanda.com
 DOMAIN-SUFFIX,bqtalk.com
 DOMAIN-SUFFIX,bravenet.com
 DOMAIN-SUFFIX,brothersoft.com
 DOMAIN-SUFFIX,bt0.com
-DOMAIN-SUFFIX,boredpanda.com
 DOMAIN-SUFFIX,bumimi.com
 DOMAIN-SUFFIX,bybbs.org
 DOMAIN-SUFFIX,cache.netease.com
@@ -344,8 +309,8 @@ DOMAIN-SUFFIX,css.network
 DOMAIN-SUFFIX,ct10000.com
 DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,cwb.gov.tw
-DOMAIN-SUFFIX,cycab.gov.tw
 DOMAIN-SUFFIX,cybermania.ws
+DOMAIN-SUFFIX,cycab.gov.tw
 DOMAIN-SUFFIX,d7vg.com
 DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dangdang.com
@@ -384,7 +349,6 @@ DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyu.com
-DOMAIN-SUFFIX,syniumsoftware.com
 DOMAIN-SUFFIX,doyoo.net
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,dream4ever.org
@@ -464,9 +428,9 @@ DOMAIN-SUFFIX,getui.com
 DOMAIN-SUFFIX,gewara.com
 DOMAIN-SUFFIX,gfan.com
 DOMAIN-SUFFIX,gfw.io
-DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,ggmm777.com
 DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,go2map.com
 DOMAIN-SUFFIX,golaravel.com
 DOMAIN-SUFFIX,gongchang.com
@@ -476,7 +440,6 @@ DOMAIN-SUFFIX,gougou.com
 DOMAIN-SUFFIX,grb.gov.tw
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,guokr.com
-# DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gy9y.com
 DOMAIN-SUFFIX,gysd.nyc.gov.tw
 DOMAIN-SUFFIX,gzmama.com
@@ -554,6 +517,7 @@ DOMAIN-SUFFIX,iloveyouxi.com
 DOMAIN-SUFFIX,im286.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,imanhua.com
+DOMAIN-SUFFIX,ime.baidu.jp
 DOMAIN-SUFFIX,i-meto.com
 DOMAIN-SUFFIX,img.cctvpic.com
 DOMAIN-SUFFIX,img-space.com
@@ -689,8 +653,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,liyin.date
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,lncld.net
-DOMAIN-SUFFIX,local
-DOMAIN-SUFFIX,localhost
 DOMAIN-SUFFIX,locvps.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,logmein.com
@@ -808,6 +770,7 @@ DOMAIN-SUFFIX,northguan-nsa.gov.tw
 DOMAIN-SUFFIX,nowec.com
 DOMAIN-SUFFIX,noxinfluencer.com
 DOMAIN-SUFFIX,npm.gov.tw
+DOMAIN-SUFFIX,nrch.culture.tw
 DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,nstm.gov.tw
 DOMAIN-SUFFIX,ntdmh.gov.tw
@@ -900,15 +863,18 @@ DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,ranwen.com
 DOMAIN-SUFFIX,readnovel.com
 DOMAIN-SUFFIX,redirector.gvt1.com
+DOMAIN-SUFFIX,regexr.com
 DOMAIN-SUFFIX,renren.com
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,rkecloud.com
 DOMAIN-SUFFIX,rkidc.net
 DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rom.mk
+DOMAIN-SUFFIX,r-pkg.org
 DOMAIN-SUFFIX,rrfmn.com
 DOMAIN-SUFFIX,rrimg.com
 DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,rstudio.com
 DOMAIN-SUFFIX,rtbidder.net
 DOMAIN-SUFFIX,ruanyifeng.com
 DOMAIN-SUFFIX,ruby-china.org
@@ -986,10 +952,12 @@ DOMAIN-SUFFIX,steamdb.info
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,stockstar.com
 DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,store.sprite.org
 DOMAIN-SUFFIX,sttlbb.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,sunmoonlake.gov.tw
 DOMAIN-SUFFIX,synacast.com
+DOMAIN-SUFFIX,syniumsoftware.com
 DOMAIN-SUFFIX,szhome.com
 DOMAIN-SUFFIX,sznews.com
 DOMAIN-SUFFIX,t.tt
@@ -1015,18 +983,15 @@ DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,theplanet.com
 DOMAIN-SUFFIX,thethirdmedia.com
+DOMAIN-SUFFIX,the-wicked-devils-of-hell.herokuapp.com
 DOMAIN-SUFFIX,thomsonreuters.com
 DOMAIN-SUFFIX,tiancity.com
 DOMAIN-SUFFIX,tianji.com
 DOMAIN-SUFFIX,tianyaui.com
 DOMAIN-SUFFIX,tiao8.info
+DOMAIN-SUFFIX,tidyverse.org
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tiexue.net
-DOMAIN-SUFFIX,tidyverse.org
-DOMAIN-SUFFIX,regexr.com
-DOMAIN-SUFFIX,rstudio.com
-DOMAIN-SUFFIX,r-pkg.org
-DOMAIN-SUFFIX,the-wicked-devils-of-hell.herokuapp.com
 DOMAIN-SUFFIX,tigerlust.com
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,titan24.com
@@ -1090,10 +1055,10 @@ DOMAIN-SUFFIX,vghtc.gov.tw
 DOMAIN-SUFFIX,vghtpe.gov.tw
 DOMAIN-SUFFIX,vhall.com
 DOMAIN-SUFFIX,videojj.com
+DOMAIN-SUFFIX,vido.download
 DOMAIN-SUFFIX,viosey.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipshop.com
-DOMAIN-SUFFIX,vido.download
 DOMAIN-SUFFIX,vizu.com
 DOMAIN-SUFFIX,vjia.com
 DOMAIN-SUFFIX,vmall.com
@@ -1130,6 +1095,7 @@ DOMAIN-SUFFIX,woyoo.com
 DOMAIN-SUFFIX,wrating.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wumii.com
+DOMAIN-SUFFIX,wwwhost.biz
 DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xf9168.com
 DOMAIN-SUFFIX,xi666.com

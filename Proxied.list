@@ -1,4 +1,5 @@
-
+# country code 
+DOMAIN-SUFFIX,de
 
 #github IP space
 IP-CIDR,192.30.252.0/22,no-resolve
@@ -62,13 +63,13 @@ IP-CIDR,185.89.216.0/22,no-resolve
 IP-CIDR,199.201.64.0/22,no-resolve
 IP-CIDR,204.15.20.0/22,no-resolve
 
-#duolingo
+# duolingo
 DOMAIN-SUFFIX,android-api-cf.duolingo.com
 DOMAIN-SUFFIX,forum.duolingo.com
 DOMAIN-SUFFIX,forum-api.duolingo.com
 DOMAIN-SUFFIX,duolingo-forum-web.duolingo.com
 
-
+# other sites
 DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,1688.com.au
 DOMAIN-SUFFIX,abc.net.au
@@ -112,13 +113,13 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,france24.com
+DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,google.co.jp
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greatfire.org
 DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,heise.de
 DOMAIN-SUFFIX,herokuapp.com
 DOMAIN-SUFFIX,hk.appledaily.com
 DOMAIN-SUFFIX,hongkongfp.com
@@ -136,7 +137,6 @@ DOMAIN-SUFFIX,kiranpantha.com.np
 DOMAIN-SUFFIX,lanacion.com.ar
 DOMAIN-SUFFIX,lazygirls.info
 DOMAIN-SUFFIX,lemonde.fr
-DOMAIN-SUFFIX,lernende-gesellschaft.de
 DOMAIN-SUFFIX,listennotes.com
 DOMAIN-SUFFIX,lookip.net
 DOMAIN-SUFFIX,mainichi.jp
@@ -150,7 +150,6 @@ DOMAIN-SUFFIX,minutouno.com
 DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
-DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nordvpn.com
@@ -178,7 +177,6 @@ DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,smh.com.au
 DOMAIN-SUFFIX,socialblade.com
 DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,spiegel.de
 DOMAIN-SUFFIX,sponichi.co.jp
 DOMAIN-SUFFIX,startpage.com
 DOMAIN-SUFFIX,straitstimes.com
@@ -212,7 +210,6 @@ DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,whatsapp.com
-
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wionews.com

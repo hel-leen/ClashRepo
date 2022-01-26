@@ -52,6 +52,7 @@ DOMAIN,local.adguard.org
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
+DOMAIN-SUFFIX,lmepbq.com
 
 
 DOMAIN,blog.ontrac.com
@@ -1025,6 +1026,7 @@ DOMAIN-SUFFIX,tidyverse.org
 DOMAIN-SUFFIX,regexr.com
 DOMAIN-SUFFIX,rstudio.com
 DOMAIN-SUFFIX,r-pkg.org
+DOMAIN-SUFFIX,the-wicked-devils-of-hell.herokuapp.com
 DOMAIN-SUFFIX,tigerlust.com
 DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,titan24.com

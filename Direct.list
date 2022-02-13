@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,r-project
 #duolingo
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
+DOMAIN-SUFFIX,excess.duolingo.com
 DOMAIN-SUFFIX,lmepbq.com
 
 

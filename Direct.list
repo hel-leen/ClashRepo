@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,r-project
+DOMAIN-SUFFIX,bioconductor.org
 #DOMAIN-SUFFIX,gstatic.com
 
 #duolingo

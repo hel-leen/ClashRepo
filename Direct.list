@@ -15,6 +15,10 @@ DOMAIN-KEYWORD,r-project
 DOMAIN-SUFFIX,bioconductor.org
 #DOMAIN-SUFFIX,gstatic.com
 
+#clash apps
+DOMAIN-SUFFIX,clash.razord.top
+DOMAIN-SUFFIX,appcenter.ms
+
 #duolingo
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
@@ -178,7 +182,6 @@ DOMAIN-SUFFIX,anzhi.com
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,apkdone.com
 DOMAIN-SUFFIX,apkdone.download
-DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appgame.com
 DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,apple.com

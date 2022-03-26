@@ -8,10 +8,10 @@ DOMAIN-KEYWORD,jquery
 DOMAIN-KEYWORD,unpkg
 DOMAIN-KEYWORD,jsbin
 DOMAIN-KEYWORD,plotly
-DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,r-project
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,bioconductor.org
 #DOMAIN-SUFFIX,gstatic.com
 

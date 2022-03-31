@@ -223,6 +223,7 @@ DOMAIN-SUFFIX,wavy.fm
 
 
 #cloudflare IP space
+DOMAIN-SUFFIX,cloudflare.com
 IP-CIDR,103.21.244.0/22,no-resolve
 IP-CIDR,103.22.200.0/22,no-resolve
 IP-CIDR,103.31.4.0/22,no-resolve

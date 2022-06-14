@@ -2,6 +2,7 @@
 
 #specs
 PROCESS-NAME,msedge.exe
+DOMAIN-SUFFIX,kaffeekrone.de
 DOMAIN-KEYWORD,ecosia
 DOMAIN-KEYWORD,fudan
 DOMAIN-KEYWORD,jquery

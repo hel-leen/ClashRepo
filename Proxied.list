@@ -1,3 +1,7 @@
+#keywords
+DOMAIN-KEYWORD,communism
+DOMAIN-KEYWORD,xinjiang
+
 # country code 
 DOMAIN-SUFFIX,de
 
@@ -93,6 +97,8 @@ DOMAIN-SUFFIX,breitbart.com
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,celebrity-leaks.net
 DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,charliebbs.com
+DOMAIN-SUFFIX,charliebbs.com
 DOMAIN-SUFFIX,clarin.com
 DOMAIN-SUFFIX,cnnenespanol.com
 DOMAIN-SUFFIX,coingecko.com
@@ -114,7 +120,8 @@ DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,falundafa.org
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,france24.com
-DOMAIN-SUFFIX,notepad-plus-plus.org
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gravatar.com
@@ -129,11 +136,11 @@ DOMAIN-SUFFIX,huffpost.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,indeed.com
 DOMAIN-SUFFIX,independent.co.uk
-DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,indiatoday.in
+DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,japantimes.co.jp
-DOMAIN-SUFFIX,jsfiddle.net
 DOMAIN-SUFFIX,jpl.nasa.gov
+DOMAIN-SUFFIX,jsfiddle.net
 DOMAIN-SUFFIX,jw.org
 DOMAIN-SUFFIX,kiranpantha.com.np
 DOMAIN-SUFFIX,lanacion.com.ar
@@ -155,12 +162,14 @@ DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nordvpn.com
+DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pewresearch.org
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pixelexperience.org
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,plurk.com
 DOMAIN-SUFFIX,pornhub.com

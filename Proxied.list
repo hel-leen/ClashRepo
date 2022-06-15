@@ -73,6 +73,9 @@ DOMAIN-SUFFIX,forum.duolingo.com
 DOMAIN-SUFFIX,forum-api.duolingo.com
 DOMAIN-SUFFIX,duolingo-forum-web.duolingo.com
 
+#bandcamp
+DOMAIN-SUFFIX,s4.bcbits.com
+DOMAIN-SUFFIX,bandcamp.com
 
 # other sites
 DOMAIN-SUFFIX,1337x.to
@@ -86,7 +89,6 @@ DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,badoo.com
-DOMAIN-SUFFIX,bandcamp.com
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bigcommerce.com

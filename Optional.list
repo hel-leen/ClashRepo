@@ -13,3 +13,11 @@ DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,t4.bcbits.com
 DOMAIN-SUFFIX,vk.com
+
+#wechat services
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
+DOMAIN-SUFFIX,szshort.weixin.qq.com
+DOMAIN-SUFFIX,szlong.weixin.qq.com
+DOMAIN-SUFFIX,extshort.weixin.qq.com
+DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,long.weixin.qq.com

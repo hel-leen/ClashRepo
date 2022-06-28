@@ -10,8 +10,8 @@ DOMAIN-SUFFIX,short.weixin.qq.com
 DOMAIN-SUFFIX,long.weixin.qq.com
 
 
+#DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,cloudfunctions.net
-DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,loudersound.com

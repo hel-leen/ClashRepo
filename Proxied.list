@@ -3,7 +3,7 @@ DOMAIN-KEYWORD,communism
 DOMAIN-KEYWORD,xinjiang
 
 # country code 
-DOMAIN-SUFFIX,de
+#DOMAIN-SUFFIX,de
 
 #github IP space
 IP-CIDR,192.30.252.0/22,no-resolve

@@ -1,6 +1,9 @@
 ## Advertising
 
 
+# misc
+DOMAIN-SUFFIX,fonts.googleapis.com/css2?family=Barlow
+
 # keywords
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster

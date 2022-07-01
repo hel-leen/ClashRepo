@@ -212,14 +212,17 @@ DOMAIN-SUFFIX,woodcutrecords.com
 DOMAIN-SUFFIX,w-t-c.org
 
 #Music tracking
-#DOMAIN-SUFFIX,last.fm
+DOMAIN-SUFFIX,last.fm
 DOMAIN-KEYWORD,scrobble
 DOMAIN-SUFFIX,listenbrainz.org
-#DOMAIN-SUFFIX,libre.fm
+DOMAIN-SUFFIX,libre.fm
 DOMAIN-SUFFIX,scatterfm.markhansen.co.nz
 DOMAIN-SUFFIX,spotifytrack.net
 DOMAIN-SUFFIX,statsforspotify.com
+DOMAIN-SUFFIX,stats.fm
+DOMAIN-SUFFIX,spotistats.app
 DOMAIN-SUFFIX,wavy.fm
+
 
 
 #cloudflare IP space

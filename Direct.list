@@ -28,6 +28,11 @@ DOMAIN-SUFFIX,lmepbq.com
 #misc
 DOMAIN-SUFFIX,lanzoug.com
 DOMAIN-SUFFIX,zgmymt.com
+DOMAIN-SUFFIX,angelacool.eu.org
+DOMAIN-SUFFIX,sourceforge.net
+IP-CIDR,104.26.12.115,no-resolve
+IP-CIDR,172.67.70.108,no-resolve
+IP-CIDR,151.101.110.248,no-resolve
 
 # DOMAIN-SUFFIX,ampproject.org
 # DOMAIN-SUFFIX,gvt1.com

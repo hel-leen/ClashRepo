@@ -85,21 +85,15 @@ DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,tonemedia.com
 
 
-
 # (0~9)
 # > 51wnl
-DOMAIN,ad.51wnl-cq.com
-DOMAIN,adextra.51wnl-cq.com
-DOMAIN,log.51wnl-cq.com
-DOMAIN,r.51wnl-cq.com
+DOMAIN-SUFFIX,51wnl-cq.com
 
 # (A)
 DOMAIN-SUFFIX,alexametrics.com
 
 # > Apple
-DOMAIN-SUFFIX,ads.internal.unity3d.com
-DOMAIN-SUFFIX,ads.prd.ie.internal.unity3d.com
-DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unity3d.com
 # --- (Alibaba) ---
 DOMAIN,tunion-api.m.taobao.com
 # > YOUKU

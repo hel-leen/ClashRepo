@@ -26,7 +26,6 @@ DOMAIN-SUFFIX,excess.duolingo.com
 DOMAIN-SUFFIX,lmepbq.com
 
 #misc
-DOMAIN-SUFFIX,book4you.org
 DOMAIN-SUFFIX,lanzoug.com
 DOMAIN-SUFFIX,zgmymt.com
 DOMAIN-SUFFIX,angelacool.eu.org
@@ -38,4 +37,9 @@ IP-CIDR,151.101.110.0/22,no-resolve
 
 # DOMAIN-SUFFIX,ampproject.org
 # DOMAIN-SUFFIX,gvt1.com
-# 
+
+# library 
+DOMAIN-SUFFIX,zlibcdn2.com
+DOMAIN-SUFFIX,zlibcdn.com
+DOMAIN-SUFFIX,book4you.org
+# DOMAIN-SUFFIX,b-ok.org

@@ -39,42 +39,6 @@ DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,uigxx
 
-## Advertising
-
-# keywords
-DOMAIN-KEYWORD,admarvel
-DOMAIN-KEYWORD,admaster
-DOMAIN-KEYWORD,adsage
-DOMAIN-KEYWORD,adsensor
-DOMAIN-KEYWORD,adserv
-DOMAIN-KEYWORD,adsmogo
-DOMAIN-KEYWORD,adsrvmedia
-DOMAIN-KEYWORD,adsserv
-DOMAIN-KEYWORD,adsystem
-DOMAIN-KEYWORD,adtech
-DOMAIN-KEYWORD,adwords
-DOMAIN-KEYWORD,analysis
-DOMAIN-KEYWORD,analytic
-DOMAIN-KEYWORD,applovin
-DOMAIN-KEYWORD,appsflyer
-DOMAIN-KEYWORD,domob
-DOMAIN-KEYWORD,duomeng
-DOMAIN-KEYWORD,dwtrack
-DOMAIN-KEYWORD,ednz
-DOMAIN-KEYWORD,guanggao
-DOMAIN-KEYWORD,omgmta
-DOMAIN-KEYWORD,omniture
-DOMAIN-KEYWORD,openx
-DOMAIN-KEYWORD,pagead
-DOMAIN-KEYWORD,partnerad
-DOMAIN-KEYWORD,pingfore
-DOMAIN-KEYWORD,socdm
-DOMAIN-KEYWORD,supersonicads
-# DOMAIN-KEYWORD,tracking
-# DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,usage
-DOMAIN-KEYWORD,uigxx
-
 # media ads
 DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsi.report-uri.io

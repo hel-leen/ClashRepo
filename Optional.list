@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,dns.weixin.qq.com
 
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,cloudfunctions.net
-DOMAIN-SUFFIX,downloads.sourceforge.net
+DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,loudersound.com

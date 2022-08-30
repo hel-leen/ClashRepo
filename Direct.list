@@ -37,6 +37,17 @@ IP-CIDR,151.101.110.0/22,no-resolve
 # DOMAIN-SUFFIX,ampproject.org
 # DOMAIN-SUFFIX,gvt1.com
 
+# spotify 
+DOMAIN-SUFFIX,ap-guc1.spotify.com
+DOMAIN-SUFFIX,ap-guc2.spotify.com
+DOMAIN-SUFFIX,ap-guc3.spotify.com
+DOMAIN-SUFFIX,apresolve.spotify.com
+IP-CIDR,35.186.224.47/32,no-resolve
+IP-CIDR,99.84.238.0/24,no-resolve
+IP-CIDR,78.31.8.0/21,no-resolve
+IP-CIDR,193.182.8.0/21,no-resolve
+IP-CIDR,194.68.28.0/22,no-resolve
+
 # library 
 DOMAIN-SUFFIX,zlibcdn2.com
 DOMAIN-SUFFIX,zlibcdn.com

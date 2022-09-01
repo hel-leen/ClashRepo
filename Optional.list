@@ -13,8 +13,9 @@ DOMAIN-SUFFIX,dns.weixin.qq.com
 
 #spotify
 DOMAIN-SUFFIX,login5.spotify.com
-DOMAIN-SUFFIX,spclient.wg.spotify.com
 DOMAIN-SUFFIX,developer.spotify.com/images
+DOMAIN-SUFFIX,spclient.wg.spotify.com
+DOMAIN-SUFFIX,spotify.com
 
 #DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,cloudfunctions.net

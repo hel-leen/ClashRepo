@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,lmepbq.com
 # DOMAIN-SUFFIX,gvt1.com
 
 # spotify 
-DOMAIN-SUFFIX,spotify.com
+# DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,ap-guc1.spotify.com
 DOMAIN-SUFFIX,ap-guc2.spotify.com
 DOMAIN-SUFFIX,ap-guc3.spotify.com

@@ -1,5 +1,10 @@
 ## Advertising
 
+#MT
+IP-CIDR,223.109.148.0/24,no-resolve
+
+#ES
+DOMAIN-SUFFIX,stat.doglobal.net
 
 # misc
 DOMAIN-SUFFIX,gdsoq.com

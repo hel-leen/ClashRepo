@@ -29,16 +29,17 @@ DOMAIN-SUFFIX,lmepbq.com
 # DOMAIN-SUFFIX,gvt1.com
 
 # spotify 
-# DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,ap-guc1.spotify.com
 DOMAIN-SUFFIX,ap-guc2.spotify.com
 DOMAIN-SUFFIX,ap-guc3.spotify.com
 DOMAIN-SUFFIX,apresolve.spotify.com
+DOMAIN-SUFFIX,spotify.com
 IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,99.84.238.0/24,no-resolve
 IP-CIDR,78.31.8.0/21,no-resolve
 IP-CIDR,193.182.8.0/21,no-resolve
 IP-CIDR,194.68.28.0/22,no-resolve
+
 #spotistat
 DOMAIN-SUFFIX,lanzoug.com
 DOMAIN-SUFFIX,zgmymt.com

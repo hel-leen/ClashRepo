@@ -1,10 +1,13 @@
 ## Advertising
 
+
 #MT
 IP-CIDR,223.109.148.0/24,no-resolve
+DOMAIN-SUFFIX,safe.mt2.cn
 
 #ES
 DOMAIN-SUFFIX,stat.doglobal.net
+DOMAIN-SUFFIX,ulogs.umengcloud.com
 
 # misc
 DOMAIN-SUFFIX,gdsoq.com

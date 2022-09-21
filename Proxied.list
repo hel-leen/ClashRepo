@@ -79,10 +79,11 @@ DOMAIN-SUFFIX,duolingo-forum-web.duolingo.com
 #bandcamp
 DOMAIN-SUFFIX,s4.bcbits.com
 DOMAIN-SUFFIX,bandcamp.com
-IP-CIDR,151.101.0.0/16,no-resolve
+IP-CIDR,151.101.2.0/24,no-resolve
 
 
 #library
+DOMAIN-SUFFIX,b-ok.org
 DOMAIN-SUFFIX,1lib.domains
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singlelogin.app 

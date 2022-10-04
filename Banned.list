@@ -3,7 +3,7 @@
 
 #MT
 IP-CIDR,223.109.148.0/24,no-resolve
-IP-CIDR,223.180.163.248.0/22,no-resolve
+IP-CIDR,223.180.163.0/22,no-resolve
 DOMAIN-SUFFIX,safe.mt2.cn
 
 #ES
@@ -1028,6 +1028,7 @@ DOMAIN-SUFFIX,tags.transportdirect.info
 DOMAIN-SUFFIX,tag-stats.huffingtonpost.com
 DOMAIN-SUFFIX,tally.upsideout.com
 DOMAIN-SUFFIX,tc.adlink.net
+DOMAIN-SUFFIX,tcp7.cn
 DOMAIN-SUFFIX,tc.zionsbank.com
 DOMAIN-SUFFIX,tc135.veooz.com
 DOMAIN-SUFFIX,te.suntimes.com

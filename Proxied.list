@@ -40,6 +40,9 @@ IP-CIDR,20.201.28.152/32,no-resolve
 IP-CIDR,20.205.243.160/32,no-resolve
 IP-CIDR,102.133.202.246/32,no-resolve
 
+#f-droid
+DOMAIN-SUFFIX,f-droid.org
+
 #signal
 PROCESS-NAME,Signal.exe
 PROCESS-NAME,signal.exe

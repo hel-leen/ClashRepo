@@ -1,5 +1,6 @@
 ## Advertising
-
+DOMAIN-SUFFIX,trafficfactory.biz
+DOMAIN-SUFFIX,alb.reddit.com
 
 #MT
 IP-CIDR,223.109.148.0/24,no-resolve
@@ -7,7 +8,7 @@ IP-CIDR,223.180.163.0/22,no-resolve
 DOMAIN-SUFFIX,safe.mt2.cn
 
 #ES
-IP-CIDR,223.218.91.196.0/22,no-resolve
+IP-CIDR,223.218.91.0/22,no-resolve
 DOMAIN-SUFFIX,stat.doglobal.net
 DOMAIN-SUFFIX,ulogs.umengcloud.com
 

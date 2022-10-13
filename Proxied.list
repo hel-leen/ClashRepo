@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,xinjiang
 #google
 IP-CIDR,172.217.0.0/24,no-resolve
 
+
 #github IP space
 IP-CIDR,192.30.252.0/22,no-resolve
 IP-CIDR,185.199.108.0/22,no-resolve
@@ -39,6 +40,8 @@ IP-CIDR,3.106.158.203/32,no-resolve
 IP-CIDR,20.201.28.152/32,no-resolve
 IP-CIDR,20.205.243.160/32,no-resolve
 IP-CIDR,102.133.202.246/32,no-resolve
+
+DOMAIN-SUFFIX,researchgate.net
 
 #f-droid
 DOMAIN-SUFFIX,f-droid.org

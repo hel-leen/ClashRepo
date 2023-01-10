@@ -85,7 +85,7 @@ DOMAIN-SUFFIX,duolingo-forum-web.duolingo.com
 #bandcamp
 DOMAIN-SUFFIX,s4.bcbits.com
 DOMAIN-SUFFIX,bandcamp.com
-IP-CIDR,151.101.2.0/24,no-resolve
+IP-CIDR,151.101.0.0/17,no-resolve
 
 
 
@@ -108,6 +108,7 @@ DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,badoo.com
 DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bigcommerce.com
 DOMAIN-SUFFIX,bitchute.com
@@ -224,6 +225,8 @@ DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,theglobeandmail.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,theinitium.com
+DOMAIN-SUFFIX,newindianexpress.com
+DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,tineye.com

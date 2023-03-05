@@ -2,6 +2,9 @@
 DOMAIN-SUFFIX,trafficfactory.biz
 DOMAIN-SUFFIX,alb.reddit.com
 
+# HW
+DOMAIN-SUFFIX,hicloud.com
+
 #MT
 IP-CIDR,223.109.148.0/24,no-resolve
 IP-CIDR,223.180.163.0/22,no-resolve
@@ -63,6 +66,8 @@ DOMAIN-SUFFIX,tonemedia.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN-SUFFIX,android-context-data.googleapis.com
 DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,cailvmei.com
+DOMAIN-SUFFIX,160gps.com
 
 
 

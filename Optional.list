@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,login5.spotify.com
 DOMAIN-SUFFIX,developer.spotify.com/images
 DOMAIN-SUFFIX,spclient.wg.spotify.com
 DOMAIN-SUFFIX,accounts.spotify.com
+DOMAIN-SUFFIX,open.spotify.com
 
 #spotistat
 IP-CIDR,142.250.190.0/23,no-resolve

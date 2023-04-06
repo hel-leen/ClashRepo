@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,ap-guc1.spotify.com
 DOMAIN-SUFFIX,ap-guc2.spotify.com
 DOMAIN-SUFFIX,ap-guc3.spotify.com
 DOMAIN-SUFFIX,apresolve.spotify.com
-DOMAIN-SUFFIX,spotify.com
+# DOMAIN-SUFFIX,spotify.com
 IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,99.84.238.0/24,no-resolve
 IP-CIDR,78.31.8.0/21,no-resolve
@@ -60,5 +60,8 @@ DOMAIN-SUFFIX,zlibcdn.com
 DOMAIN-SUFFIX,book4you.org
 # DOMAIN-SUFFIX,b-ok.org
 
+# misc
 DOMAIN-SUFFIX,maxcdn.com
 DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,nvidia.com

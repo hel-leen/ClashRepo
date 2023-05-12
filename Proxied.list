@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,miraheze.org
 DOMAIN-SUFFIX,nbc.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
@@ -266,7 +267,5 @@ DOMAIN-SUFFIX,wilsoncenter.org
 DOMAIN-SUFFIX,openedition.org
 DOMAIN-SUFFIX,pttplay.cc
 DOMAIN-SUFFIX,cyber.dota2.me
-DOMAIN-SUFFIX,umap.openstreetmap.fr
 DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,mastodon.social
-DOMAIN-SUFFIX,vhs-lernportal.de

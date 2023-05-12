@@ -15,7 +15,9 @@ DOMAIN-KEYWORD,plotly
 DOMAIN-KEYWORD,datanovia
 DOMAIN-KEYWORD,iftproject
 DOMAIN-KEYWORD,r-project
-DOMAIN-SUFFIX,bioconductor.org
+DOMAIN-SUFFIX,rstudio.com
+DOMAIN-SUFFIX,rstudio.org
+# DOMAIN-SUFFIX,bioconductor.org
 #DOMAIN-SUFFIX,gstatic.com
 
 #clash apps
@@ -23,6 +25,7 @@ DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,appcenter.ms
 
 #duolingo
+DOMAIN-SUFFIX,duome.eu
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
 DOMAIN-SUFFIX,excess.duolingo.com

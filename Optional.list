@@ -33,9 +33,11 @@ DOMAIN-SUFFIX,m-hall.store
 DOMAIN-SUFFIX,musicradio.com
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,audioscrobbler.com
-DOMAIN-SUFFIX,musify.club
-DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vhs-lernportal.de
+DOMAIN-SUFFIX,umap.openstreetmap.fr
+# DOMAIN-SUFFIX,musify.club
+# DOMAIN-SUFFIX,posit.co
+# DOMAIN-SUFFIX,vk.com
 
 

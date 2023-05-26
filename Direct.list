@@ -29,6 +29,9 @@ DOMAIN-SUFFIX,duome.eu
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
 DOMAIN-SUFFIX,excess.duolingo.com
+DOMAIN-SUFFIX,stories-cdn.duolingo.com
+DOMAIN-SUFFIX,friends-prod.duolingo.com
+DOMAIN-SUFFIX,goals-api.duolingo.com
 DOMAIN-SUFFIX,lmepbq.com
 
 # DOMAIN-SUFFIX,ampproject.org
@@ -68,4 +71,5 @@ DOMAIN-SUFFIX,maxcdn.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,nvidia.com
+DOMAIN-SUFFIX,cloudfront.net
 

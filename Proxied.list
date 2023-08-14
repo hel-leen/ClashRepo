@@ -1,6 +1,3 @@
-#keywords
-DOMAIN-KEYWORD,communism
-DOMAIN-KEYWORD,xinjiang
 
 # country code 
 #DOMAIN-SUFFIX,de
@@ -87,7 +84,8 @@ DOMAIN-SUFFIX,s4.bcbits.com
 DOMAIN-SUFFIX,bandcamp.com
 IP-CIDR,151.101.0.0/17,no-resolve
 
-
+#openai
+DOMAIN-SUFFIX,chat.openai.org
 
 #library
 DOMAIN-SUFFIX,b-ok.org
@@ -118,6 +116,7 @@ DOMAIN-SUFFIX,breitbart.com
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,celebrity-leaks.net
 DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,charliebbs.com
 DOMAIN-SUFFIX,charliebbs.com
 DOMAIN-SUFFIX,clarin.com
@@ -190,7 +189,6 @@ DOMAIN-SUFFIX,nordvpn.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pewresearch.org
 DOMAIN-SUFFIX,pincong.rocks
@@ -203,6 +201,7 @@ DOMAIN-SUFFIX,protonvpn.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,radio.garden
+DOMAIN-SUFFIX,redian.news
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,rfa.org
@@ -272,3 +271,8 @@ DOMAIN-SUFFIX,pttplay.cc
 DOMAIN-SUFFIX,cyber.dota2.me
 DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,mastodon.social
+
+
+#keywords
+DOMAIN-KEYWORD,communism
+DOMAIN-KEYWORD,xinjiang

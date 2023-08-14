@@ -53,11 +53,13 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,uigxx
 
 # media ads
+DOMAIN-SUFFIX,anyclip.com
 DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsi.report-uri.io
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,getpublica.com
 DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,icanhazip.com
 DOMAIN-SUFFIX,media.net
 DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,primis.tech

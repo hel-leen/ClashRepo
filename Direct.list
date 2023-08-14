@@ -35,8 +35,7 @@ DOMAIN-SUFFIX,friends-prod.duolingo.com
 DOMAIN-SUFFIX,goals-api.duolingo.com
 DOMAIN-SUFFIX,lmepbq.com
 
-# DOMAIN-SUFFIX,ampproject.org
-# DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,ampproject.org
 
 # spotify 
 DOMAIN-SUFFIX,ap-guc1.spotify.com

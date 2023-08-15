@@ -87,6 +87,9 @@ IP-CIDR,151.101.0.0/17,no-resolve
 #openai
 DOMAIN-SUFFIX,chat.openai.org
 
+#chinadigitaltimes
+DOMAIN-SUFFIX,chinadigitaltimes-net.cdn.ampproject.org
+
 #library
 DOMAIN-SUFFIX,b-ok.org
 DOMAIN-SUFFIX,1lib.domains

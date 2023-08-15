@@ -2,17 +2,18 @@
 DOMAIN-SUFFIX,t4.bcbits.com
 
 #wechat services
-# DOMAIN-SUFFIX,szextshort.weixin.qq.com
-# DOMAIN-SUFFIX,szshort.weixin.qq.com
-# DOMAIN-SUFFIX,szlong.weixin.qq.com
-# DOMAIN-SUFFIX,extshort.weixin.qq.com
-# DOMAIN-SUFFIX,short.weixin.qq.com
-# DOMAIN-SUFFIX,long.weixin.qq.com
-# DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,dns.weixin.qq.com
+DOMAIN-SUFFIX,long.weixin.qq.com
+DOMAIN-SUFFIX,szlong.weixin.qq.com
+DOMAIN-SUFFIX,szshort.weixin.qq.com
+DOMAIN-SUFFIX,szextshort.weixin.qq.com
+DOMAIN-SUFFIX,extshort.weixin.qq.com
+DOMAIN-SUFFIX,short.weixin.qq.com
 
 # wechat ip
+# DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,mp.weixinbridge.com
-# DOMAIN-SUFFIX,mp.weixin.qq.com
+DOMAIN-SUFFIX,mp.weixin.qq.com
 
 #spotify
 DOMAIN-SUFFIX,login5.spotify.com

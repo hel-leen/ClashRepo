@@ -15,6 +15,11 @@ DOMAIN-SUFFIX,short.weixin.qq.com
 DOMAIN-SUFFIX,mp.weixinbridge.com
 DOMAIN-SUFFIX,mp.weixin.qq.com
 
+#firefly.adobe.com
+DOMAIN-SUFFIX,firefly.adobe.com
+DOMAIN-SUFFIX,firefly-md.adobe.io
+DOMAIN-SUFFIX,fotor.com
+
 #spotify
 DOMAIN-SUFFIX,login5.spotify.com
 DOMAIN-SUFFIX,developer.spotify.com/images

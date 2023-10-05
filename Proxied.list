@@ -90,12 +90,17 @@ DOMAIN-SUFFIX,chat.openai.org
 
 #chinadigitaltimes
 DOMAIN-SUFFIX,chinadigitaltimes-net.cdn.ampproject.org
+DOMAIN-SUFFIX,investopedia.com
 
 #library
 DOMAIN-SUFFIX,b-ok.org
 DOMAIN-SUFFIX,1lib.domains
 DOMAIN-SUFFIX,singlelogin.me
 DOMAIN-SUFFIX,singlelogin.app 
+DOMAIN-SUFFIX,libgen.st
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.rs
+
 
 # other sites
 DOMAIN-SUFFIX,1337x.to

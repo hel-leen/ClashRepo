@@ -1,0 +1,15 @@
+#openai
+DOMAIN-SUFFIX,chat.openai.org
+DOMAIN-SUFFIX,labs.openai.org
+
+#firefly.adobe.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,firefly.adobe.com
+DOMAIN-SUFFIX,adobelogin.com
+
+#other
+DOMAIN-SUFFIX,fotor.com
+DOMAIN-SUFFIX,midjourney.com
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,stablediffusionweb.com
+DOMAIN-SUFFIX,stability.ai

@@ -85,8 +85,6 @@ DOMAIN-SUFFIX,s4.bcbits.com
 DOMAIN-SUFFIX,bandcamp.com
 IP-CIDR,151.101.0.0/17,no-resolve
 
-#openai
-DOMAIN-SUFFIX,chat.openai.org
 
 #chinadigitaltimes
 DOMAIN-SUFFIX,chinadigitaltimes-net.cdn.ampproject.org
@@ -125,7 +123,6 @@ DOMAIN-SUFFIX,breitbart.com
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,celebrity-leaks.net
 DOMAIN-SUFFIX,change.org
-DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,charliebbs.com
 DOMAIN-SUFFIX,charliebbs.com
 DOMAIN-SUFFIX,clarin.com

@@ -68,6 +68,14 @@ DOMAIN-SUFFIX,zlibcdn.com
 DOMAIN-SUFFIX,book4you.org
 # DOMAIN-SUFFIX,b-ok.org
 
+#movie
+DOMAIN-SUFFIX,7xi.tv
+DOMAIN-SUFFIX,kuaikan-play2.com
+DOMAIN-SUFFIX,bfzycdn.com
+DOMAIN-SUFFIX,bdzy.com
+DOMAIN-SUFFIX,lz-cdn3.com
+
+
 # misc
 DOMAIN-SUFFIX,maxcdn.com
 DOMAIN-SUFFIX,deepl.com

@@ -46,3 +46,5 @@ DOMAIN-SUFFIX,umap.openstreetmap.fr
 # DOMAIN-SUFFIX,vk.com
 
 
+#dict
+DOMAIN-SUFFIX,dict.cc

@@ -1,7 +1,6 @@
 #openai
 DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,chat.openai.org
-DOMAIN-SUFFIX,labs.openai.org
+DOMAIN-SUFFIX,openai.org
 
 #firefly.adobe.com
 DOMAIN-SUFFIX,adobe.io

@@ -13,3 +13,5 @@ DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,stablediffusionweb.com
 DOMAIN-SUFFIX,stability.ai
+#dict.cc
+DOMAIN-SUFFIX,dict.cc

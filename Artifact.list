@@ -1,6 +1,7 @@
 #openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.org
+DOMAIN-KEYWORD,openai
 
 #firefly.adobe.com
 DOMAIN-SUFFIX,adobe.io

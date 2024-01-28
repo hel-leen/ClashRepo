@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,lmepbq.com
 # DOMAIN-SUFFIX,ampproject.org
 
 # spotify 
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,ap-guc1.spotify.com
 DOMAIN-SUFFIX,ap-guc2.spotify.com
 DOMAIN-SUFFIX,ap-guc3.spotify.com

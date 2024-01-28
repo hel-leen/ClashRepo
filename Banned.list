@@ -66,6 +66,8 @@ DOMAIN-SUFFIX,primis.tech
 DOMAIN-SUFFIX,static.boredpanda.com
 DOMAIN-SUFFIX,tonemedia.com
 DOMAIN-SUFFIX,vid.springserve.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,static.adsafeprotected.com
 
 # other
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
@@ -165,7 +167,6 @@ DOMAIN,exp.360in.com
 
 # (D)
 # > Douban
-AND,((USER-AGENT,Frodo*), (DOMAIN,119.29.29.29))
 
 # (G)
 # > Google

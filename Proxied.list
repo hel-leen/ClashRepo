@@ -100,6 +100,10 @@ DOMAIN-SUFFIX,libgen.st
 DOMAIN-SUFFIX,libgen.is
 DOMAIN-SUFFIX,libgen.rs
 
+#library
+DOMAIN-SUFFIX,newyun.io
+DOMAIN-SUFFIX,newyun.network
+DOMAIN-SUFFIX,fucknvidia.link
 
 # other sites
 DOMAIN-SUFFIX,1337x.to

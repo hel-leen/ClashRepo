@@ -7,6 +7,10 @@ DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 
+#bing
+DOMAIN-SUFFIX,designer.microsoft.com
+DOMAIN-SUFFIX,bing.com
+
 DOMAIN-SUFFIX,suno.ai
 
 

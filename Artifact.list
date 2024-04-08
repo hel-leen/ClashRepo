@@ -3,6 +3,13 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.org
 DOMAIN-KEYWORD,openai
 
+#claude
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+
+DOMAIN-SUFFIX,suno.ai
+
+
 #firefly.adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,firefly.adobe.com

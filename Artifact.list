@@ -1,6 +1,7 @@
 #openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openai.org
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-KEYWORD,openai
 
 #claude
@@ -25,5 +26,7 @@ DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,stablediffusionweb.com
 DOMAIN-SUFFIX,stability.ai
+
+DOMAIN-SUFFIX,leetcode.com
 #dict.cc
 DOMAIN-SUFFIX,dict.cc

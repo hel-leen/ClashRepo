@@ -90,6 +90,8 @@ IP-CIDR,151.101.0.0/17,no-resolve
 #chinadigitaltimes
 DOMAIN-SUFFIX,chinadigitaltimes-net.cdn.ampproject.org
 DOMAIN-SUFFIX,investopedia.com
+DOMAIN-SUFFIX,iframely.shorthand.com
+
 
 #library
 DOMAIN-SUFFIX,b-ok.org

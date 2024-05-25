@@ -26,8 +26,7 @@ DOMAIN-SUFFIX,clash.razord.top
 DOMAIN-SUFFIX,appcenter.ms
 
 #duolingo
-DOMAIN-SUFFIX,duome.eu
-DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,duolingo-images.s3.amazonaws.com
 #DOMAIN-SUFFIX,excess.duolingo.com
 DOMAIN-SUFFIX,stories-cdn.duolingo.com
@@ -35,6 +34,8 @@ DOMAIN-SUFFIX,stories.duolingo.com
 DOMAIN-SUFFIX,friends-prod.duolingo.com
 # DOMAIN-SUFFIX,goals-api.duolingo.com
 DOMAIN-SUFFIX,lmepbq.com
+DOMAIN-SUFFIX,duome.eu
+DOMAIN-SUFFIX,cloudfront.net
 # DOMAIN-SUFFIX,dict.cc
 
 # DOMAIN-SUFFIX,ampproject.org
@@ -45,6 +46,7 @@ DOMAIN-SUFFIX,ap-guc1.spotify.com
 DOMAIN-SUFFIX,ap-guc2.spotify.com
 DOMAIN-SUFFIX,ap-guc3.spotify.com
 DOMAIN-SUFFIX,apresolve.spotify.com
+DOMAIN-SUFFIX,heads-fa-tls13.spotifycdn.com
 DOMAIN-SUFFIX,spotify.com
 IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,99.84.238.0/24,no-resolve

@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,leonardo.ai
 DOMAIN-SUFFIX,stablediffusionweb.com
 DOMAIN-SUFFIX,stability.ai
-
-DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,faceswapper.ai
+# DOMAIN-SUFFIX,leetcode.com
 #dict.cc
 DOMAIN-SUFFIX,dict.cc

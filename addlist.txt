@@ -8,6 +8,7 @@
 @@||cmp.quantcast.com^
 @@||cookielaw.org^
 @@||crashlyticsreports-pa.googleapis.com^
+@@||data.flurry.com^
 @@||getpublica.com^
 @@||getui.net^
 @@||hotjar.com^
@@ -21,6 +22,8 @@
 @@||static.adsafeprotected.com^
 @@||static.boredpanda.com^
 @@||static.mailerlite.com^
+@@||tiqcdn.com^
 @@||tonemedia.com^
 @@||vid.springserve.com^
 @@||ydstatic.com^
+@@||youtube-nocookie.com^

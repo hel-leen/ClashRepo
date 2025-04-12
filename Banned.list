@@ -70,6 +70,11 @@ DOMAIN-SUFFIX,static.adsafeprotected.com
 DOMAIN-SUFFIX,shinypond.com
 DOMAIN-SUFFIX,cmp.quantcast.com
 DOMAIN-SUFFIX,static.mailerlite.com
+DOMAIN-SUFFIX,hubspot.com
+DOMAIN-SUFFIX,tracker.boredpanda.com
+DOMAIN-SUFFIX,strangeclocks.com
+DOMAIN-SUFFIX,chargecracker.com
+DOMAIN-SUFFIX,cat3.hbwrapper.com
 
 # other
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com

@@ -27,4 +27,4 @@
 ||vid.springserve.com^
 ||ydstatic.com^
 ||youtube-nocookie.com^
-||privacy.paramount.com^
+||paramount.com^
